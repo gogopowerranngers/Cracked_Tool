@@ -8,3 +8,4 @@ pip install bs4
 git clone https://github.com/gogopowerranngers/Cracked_Tool
 cd Cracked_Tool
 python CrackedTool.py
+

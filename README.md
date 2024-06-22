@@ -5,5 +5,6 @@ pkg install python
 pkg install git
 pip install requests
 pip install bs4
-
-git clone 
+git clone https://github.com/gogopowerranngers/Cracked_Tool
+cd Cracked_Tool
+python CrackedTool.py
